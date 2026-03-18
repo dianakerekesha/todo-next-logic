@@ -1,7 +1,7 @@
 # Next.js 15 Data Architecture & Todo
 
 A technical showcase of **Next.js 15 (App Router)** and **React 19**, focusing on modular architecture, server-side data fetching, and modern UI patterns.
-
+** [Live Demo](https://todo-next-logic.vercel.app/)**
 ---
 
 ## 🛠 Tech Stack
